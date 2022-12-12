@@ -13,3 +13,4 @@ AI의 구조가 단순해짐에 따라 가위바위보로 승리를 매겨주는
 midiapipe_hands 오픈소스 알고리즘 주소
 
 https://google.github.io/mediapipe/
+![image](https://user-images.githubusercontent.com/112457426/207075173-0a9991be-561d-4feb-9026-8c79f8ed99dc.png)
